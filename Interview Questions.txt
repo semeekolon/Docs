@@ -1,0 +1,48 @@
+C# / ASP.NET 
+1. Partial class
+2. Managed code vs unmanaged code
+3. String builder
+4. Different ways to kill a session
+5. Boxing, Un boxing
+6. Update panel, Ajax in ASP. Net
+7. View state vs hidden field
+8. Class vs struct
+9. Global. Asax
+10. Response.redirect vs server.transfer
+11. Caching
+12. Web.config
+13. Dispose vs final
+14. Sealed class
+15. Types of contructors
+16. Access modifiers
+17. What is OOPS
+18. Early binding vs late binding
+19. Recursive function
+20. Reverse string
+22. Linq
+23. Ienumerable vs iquerable
+23. Interface, why it is used
+24. Types of inheritance
+25. Separation of concern
+26. Dependency Injection.
+27. State management
+28. Garbage Collection( Garbage Collection acche se padd)
+
+SQL
+1. CTE
+2. Transaction
+3. ACID
+4. Index, cluster index, non clustered index
+5. Stored procedure
+6. Recursive stored procedure
+7. Triggers, types, magic table
+8. Types of joins
+9. Data types
+10. Varchar vs nvarchar
+11. # vs ##
+12. Self join
+13. Cursor
+14. Normalization
+15. Stored procedure vs Function
+16. Types of function
+
